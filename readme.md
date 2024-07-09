@@ -16,7 +16,7 @@ Este é um projeto de um jogo simples e intuitivo de Jogo da Velha
 
 - Sistema de alternância para dois jogadores
 - Botão de start/restart
-- Exibição de resultados
+- Exibição de resultados e eventos
 
 ## Contato
 
